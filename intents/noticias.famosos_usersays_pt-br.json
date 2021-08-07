@@ -1,0 +1,54 @@
+[
+  {
+    "id": "c6a54ab6-91e6-4982-a4f0-524f76c5e4ca",
+    "data": [
+      {
+        "text": "Notícias sobre os famosos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "10425efe-3677-45b2-822d-732360cdaf11",
+    "data": [
+      {
+        "text": "Tenho interesse nos famosos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a52c1bd5-fa7d-4b56-a973-c4ed8f775f5c",
+    "data": [
+      {
+        "text": "Quero saber sobre os famosos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c01804b-4d6e-493a-ae84-1021e74f346a",
+    "data": [
+      {
+        "text": "Famosos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

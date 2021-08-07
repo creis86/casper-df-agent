@@ -1,0 +1,93 @@
+[
+  {
+    "id": "7e787c82-49fe-4bad-a2f7-acec768a2fe9",
+    "data": [
+      {
+        "text": "Não desejo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a53556d-48d2-4a26-8b9f-5b94e667f057",
+    "data": [
+      {
+        "text": "Acho que não",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a47d4e75-f794-4c66-9b23-54d8173e1830",
+    "data": [
+      {
+        "text": "Negativo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5e7fad7e-8871-4e00-86df-1f1bd02af422",
+    "data": [
+      {
+        "text": "Não quero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fddcec2b-1e05-4791-9f00-d96bcbfea2e6",
+    "data": [
+      {
+        "text": "Definitivamente não",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a23cc064-8732-43e2-849d-1af3c4b3901b",
+    "data": [
+      {
+        "text": "Não, obrigado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6e6df0b8-c2f5-4520-be63-0dddef843b7f",
+    "data": [
+      {
+        "text": "Não",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

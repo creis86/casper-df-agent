@@ -1,0 +1,54 @@
+[
+  {
+    "id": "36ae9136-80fe-4db1-8cb0-49b6dcc6f9e2",
+    "data": [
+      {
+        "text": "Tenho interesse em política",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f67a37e9-20b9-461b-a09c-4a9459f1cdb3",
+    "data": [
+      {
+        "text": "Quero saber sobre política",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "de2e0f2e-b678-4659-b767-6704157ff1ac",
+    "data": [
+      {
+        "text": "Notícias sobre política",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1784bfbc-4f93-48d6-8550-6041e122fbe1",
+    "data": [
+      {
+        "text": "Política",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

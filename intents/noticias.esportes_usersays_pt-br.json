@@ -1,0 +1,83 @@
+[
+  {
+    "id": "77aed2cd-d8c6-4ac9-8116-16448988d585",
+    "data": [
+      {
+        "text": "Desejo notícias de ",
+        "userDefined": false
+      },
+      {
+        "text": "esportes",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "09ab7388-9681-44c6-bbc5-3b456c0d40c0",
+    "data": [
+      {
+        "text": "Notícias esportivas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1e24ede0-9903-45a3-80c4-513ff2850c31",
+    "data": [
+      {
+        "text": "Quero",
+        "userDefined": true
+      },
+      {
+        "text": " saber dos esportes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fb2ef04c-01a3-4fcf-bc34-49c91e4751d7",
+    "data": [
+      {
+        "text": "Notícias sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "esportes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b6d1cfd5-807d-43ad-92e9-fe0c6756f575",
+    "data": [
+      {
+        "text": "Esportes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

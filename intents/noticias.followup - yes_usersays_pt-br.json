@@ -1,0 +1,127 @@
+[
+  {
+    "id": "e6b9f70c-57a4-4748-aba8-448bc5b8f24a",
+    "data": [
+      {
+        "text": "Positivo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a27469e8-2bd1-4868-bdd6-8429fa21b0c3",
+    "data": [
+      {
+        "text": "Afirmativo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3de24150-7509-4cfb-9f10-611f376b2591",
+    "data": [
+      {
+        "text": "Quero",
+        "userDefined": false
+      },
+      {
+        "text": " sim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cea98268-a350-43d7-a34d-f0a2a0ed4787",
+    "data": [
+      {
+        "text": "Gostaria sim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "23c7339f-40f6-4605-833a-e3802bb53a30",
+    "data": [
+      {
+        "text": "Desejo sim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2d0f097b-d85c-455b-a520-3db933b2c729",
+    "data": [
+      {
+        "text": "Claro",
+        "userDefined": false
+      },
+      {
+        "text": " que sim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "660b10ca-7eb8-437a-b01d-f21ed2011dca",
+    "data": [
+      {
+        "text": "Certamente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ca98a7a2-1c27-4f63-ab2e-f44c53fc14d6",
+    "data": [
+      {
+        "text": "Com certeza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cde857c7-0088-4d6f-9eb4-e6fd4b94769a",
+    "data": [
+      {
+        "text": "Sim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

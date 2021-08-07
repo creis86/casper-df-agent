@@ -1,0 +1,83 @@
+[
+  {
+    "id": "715c04df-5d93-4033-9b5f-84b87a2487d5",
+    "data": [
+      {
+        "text": "Notícias de ",
+        "userDefined": false
+      },
+      {
+        "text": "entretenimento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "88c1e117-0c43-4aba-91d6-cbbf7a38910b",
+    "data": [
+      {
+        "text": "Quero saber sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "entretenimento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "35932481-b7c9-40ad-a4f8-684b3b894ac1",
+    "data": [
+      {
+        "text": "Tenho interesse em ",
+        "userDefined": false
+      },
+      {
+        "text": "entretenimento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "49117121-5e70-45c7-8bfb-724476df0e67",
+    "data": [
+      {
+        "text": "Desejo notícias sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "entretenimento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "258e548a-0198-48d6-a9c8-ec671dfae0bd",
+    "data": [
+      {
+        "text": "Entretenimento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]
